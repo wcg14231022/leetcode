@@ -1,1 +1,1 @@
-# leetcode刷题日记——python
+# leetcode刷题日记
